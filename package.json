@@ -1,7 +1,7 @@
 {
   "name": "agents-2-cents-mcp",
   "version": "1.0.0",
-  "description": "MCP server for the Agents 2 Cents opinion API — x402 micropayments on Base",
+  "description": "MCP server for the Agents 2 Cents opinion API \u2014 x402 micropayments on Base",
   "type": "module",
   "bin": {
     "agents-2-cents-mcp": "./dist/index.js"
